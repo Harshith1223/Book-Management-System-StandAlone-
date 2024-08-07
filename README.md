@@ -1,4 +1,5 @@
 Book Management System
+
 📚 A Comprehensive Guide to Your Library Solution
 
 Introduction
@@ -28,14 +29,18 @@ java -cp . Main
 Use code with caution.
 
 Usage Guide
-Launch the Application: Run the compiled program.
-Navigate the Menu: Select options from the displayed menu:
-Add Book: Input book details.
-Show All Books: View a complete book list.
-Show All Available Books: Display books ready for borrowing.
-Borrow Books: Enter the book ID to borrow.
-Return Books: Enter the book ID to return.
-Exit: Terminate the program.
+
+Start the application.
+You'll be presented with a menu offering the following options:
+1. Add Book: Add a new book to the library.
+2. Show All Books: View a list of all books in the system.
+3. Show All Available Books: View a list of books currently available for borrowing.
+4. Borrow Books: Borrow a book by entering its ID.
+5. Return Books: Return a borrowed book by entering its ID.
+6. Exit: Terminate the program.
+Enter your choice according to the menu options.
+Follow the on-screen prompts to provide necessary details for book addition, borrowing, or returning.
+
 Follow Prompts: Provide information as requested for each option.
 Enhancements and Considerations
 Error Handling: Robust error handling is crucial for user experience. Implement checks for invalid inputs and provide informative messages.
